@@ -3,5 +3,5 @@ Bailey Bourque
 
 First comment
 
-This is a change on newbranch
+This is a change on newbranch (and another)
 testbranch change
